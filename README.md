@@ -1,6 +1,6 @@
 ## Alberto Gutierrez
 
-- PhD student at the Biological Oceanography Lab from ![Universidade de Vigo](https://uvigo.gal/)
+- PhD student at the Biological Oceanography Lab from ![Universidade de Vigo](https://www.uvigo.gal/)
 - M.S. in Biotechnology
 - B.S. in Biology
 
